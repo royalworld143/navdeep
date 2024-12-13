@@ -1,0 +1,232 @@
+.main{
+    height: 128px;
+    width: 100%;
+}
+.img{
+    height: 100px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.img2{
+    height: 125px;
+    width: 200px;
+    margin-left: 1135px;
+    margin-top: -200px;
+}
+.em{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 500px;
+    margin-top: -80px;
+}
+.em1{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    margin-left: 900px;
+    margin-top: -80px;
+}
+.call{
+    margin-left: 870px;
+    margin-top: -65px;
+    color: orangered;
+}
+.mail{
+    margin-left: 450px;
+    margin-top: -20px;
+    color: orangered;
+    font-size: 20px;
+}
+.nav{
+    background-color: rgb(17, 17, 48);
+    height: 70px;
+    width: 100%;
+    margin-top:10px ;
+}
+.navs{
+    float: left;
+    margin-left: 40px;
+    margin-top: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navs1{
+    float: left;
+    margin-left: 200px;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.bg{
+    background-image: url(https://t4.ftcdn.net/jpg/06/21/38/09/360_F_621380970_R7J1LVl5jj0opdCWhU8QTGo8KU56G03x.jpg);
+    background-size: 100% 430px;
+    width: 100%;
+    height: 430px;
+    margin-top: -30px;
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.5);
+}
+.wc{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-left: 30%;
+    padding-top: 60px;
+}
+.ct{
+    background-color: rgb(255, 115, 0);
+    width: 25%;
+    height: 440px;
+    float: left;
+}
+.ct1{
+    background-color: rgb(17, 17, 48);
+    width: 25%;
+    height: 440px;
+    float: left;
+}
+.ct2{
+    background-color: rgb(255, 115, 0);
+    width: 25%;
+    height: 440px;
+    float: left;
+}
+.ct3{
+    background-color: rgb(17, 17, 48);
+    width: 25%;
+    height: 440px;
+    float: left;
+}
+.ctt{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: lighter;
+}
+.cimg{
+    height: 1100px;
+    width: 400px;
+    margin-left: 850px;
+}
+.wto{
+    margin-top: -1050px;
+}
+.circle{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    background-color: #fd5f00;
+    margin-left: 100px;
+    margin-top: -270px;
+}
+.circle1{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    background-color: #fd5f00;
+    margin-left: 500px;
+    margin-top: -214px;
+}
+.circle2{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    background-color: #fd5f00;
+    margin-left: 100px;
+    margin-top: -180px;
+}
+.circle3{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    background-color: #fd5f00;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.circle4{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    background-color: #fd5f00;
+    margin-left: 100px;
+    margin-top: -180px;
+}
+.circle5{
+    border-radius: 50px;
+    height: 90px;
+    width: 90px;
+    background-color: #fd5f00;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.bgfix{
+      background-attachment: fixed;
+    background-image: url(https://image.cnbcfm.com/api/v1/image/106922887-1628206615260-gettyimages-887132600-as1700__08.jpeg?v=1628206641);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 850px;
+    margin-top: -20px;
+    box-shadow: inset 0 0 0 2000px rgba(205, 119, 38, 0.514);
+}
+.h6{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 15%;
+}
+.h61{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 12%;
+}
+.h62{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 12%;
+}
+.h63{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 12%;
+}
+.oc{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 130px;
+    margin-left: 140px;
+}
+.image{
+    float: left;
+    margin-left: 30px;
+}
+.ap{
+    border-radius: 20px;
+    border: none;
+    height: 30px;
+    width: 80px;
+    background-color: #fd5f00;
+    color: white;
+}
+.staf{
+    float: left;
+    margin-left: 30px;
+}
+
+
